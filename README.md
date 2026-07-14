@@ -20,6 +20,8 @@ Dokumentasi ini dibuat sebagai bagian dari pengembangan skill di bidang **Data A
 * SQL 08: Membuat Table atau Data Definition Language DDL
 * SQL 09: INSERT, UPDATE, DELETE-DATA MANIPULATION LANGUAGE (DML)
 * SQL 10: SUBQUERY
+* SQL Jenis-Jenis Window Function & Common Table Expression (CTE)
+* SQL Function Lainnya: LAG, LEAD, dan Common Table Expression (CTE)
 * Studi kasus sederhana
 
 ---
